@@ -37,3 +37,7 @@ build/
 
 ### Mac OS ###
 .DS_Store
+### 运行时数据（H2 文件库） ###
+/data/
+/demo-data/
+*.log
